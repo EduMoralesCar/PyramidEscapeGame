@@ -6,6 +6,7 @@ import javax.swing.*;
 import java.awt.*;
 
 public class HistoriaFrame extends JFrame {
+
     private JTextArea textoHistoria;
     private String historiaCompleta;
     private int indiceTexto = 0;
@@ -13,7 +14,7 @@ public class HistoriaFrame extends JFrame {
 
     public HistoriaFrame() {
         setTitle("Escape Room: Pirámide");
-        setSize(700, 500);
+        setSize(700, 600);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
 
@@ -31,7 +32,7 @@ public class HistoriaFrame extends JFrame {
 
         // Caja de texto para la historia
         textoHistoria = new JTextArea();
-        textoHistoria.setBounds(90, 70, 600, 250);
+        textoHistoria.setBounds(90, 70, 600, 350);
         textoHistoria.setWrapStyleWord(true);
         textoHistoria.setLineWrap(true);
         textoHistoria.setEditable(false);
@@ -42,27 +43,27 @@ public class HistoriaFrame extends JFrame {
 
         // Historia con estilo elegante y misterioso
         historiaCompleta = """
-Te adentras en el corazón del desierto egipcio.  
-Tras años de investigación, finalmente encuentras la entrada de una pirámide olvidada
-,oculta bajo siglos de arena y silencio.
+🌵 Te adentras en el corazón del desierto egipcio.  
+🔍 Tras años de investigación, finalmente encuentras la entrada de una pirámide 
+olvidada, oculta bajo siglos de arena y silencio ⏳🌬️.
 Eres un investigador solitario, guiado por el deseo de revelar secretos que el tiempo
-quiso enterrar.  
-Pero apenas cruzas el umbral, un estruendo sella la entrada tras de ti.  
-Has quedado atrapado.
+quiso enterrar 🗿✨.  
+💥 Pero apenas cruzas el umbral, un estruendo sella la entrada tras de ti.  
+Has quedado atrapado 🔒.
 El aire es espeso. Las paredes, cubiertas de símbolos antiguos, parecen observarte.  
 Y en medio del silencio, una voz resuena desde lo profundo de la piedra:
 “Quien perturbe el descanso de los antiguos…  
 deberá probar su sabiduría, o ser condenado a la eternidad.”
-Ahora no hay vuelta atrás.  
-Solo resolviendo los acertijos del pasado podrás avanzar.  
-Cada respuesta correcta es una llave.  
-Cada error... un paso más hacia la perdición.
-""";
+🚷 Ahora no hay vuelta atrás.
 
+🧩🔓 Solo resolviendo los acertijos del pasado podrás avanzar.
+✅🗝️ Cada respuesta correcta es una llave.
+❌⚠️ Cada error... un paso más hacia la perdición 👣🕳️.
+""";
 
         // Botón para comenzar la aventura
         JButton empezar = new JButton("Comenzar Aventura");
-        empezar.setBounds(260, 365, 180, 40);
+        empezar.setBounds(260, 430, 180, 40); //365
         empezar.setBackground(new Color(139, 69, 19));
         empezar.setForeground(Color.WHITE);
         empezar.setFocusPainted(false);
@@ -92,4 +93,3 @@ Cada error... un paso más hacia la perdición.
         timer.start();
     }
 }
-

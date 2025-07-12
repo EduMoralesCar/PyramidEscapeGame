@@ -44,13 +44,13 @@ public class FinJuegoFrame extends JFrame {
         mensajeFinal = """
 Has logrado descifrar los secretos milenarios de la pirámide…
 
-Las puertas se abren y la luz del desierto vuelve a abrazarte.
+Las puertas se abren y la luz del desierto vuelve a abrazarte ☀️🏜️.
 
-No solo has escapado, has conquistado el legado de los antiguos.
+🎉 No solo has escapado, has conquistado el legado de los antiguos.
 
-Ahora eres parte de su historia, guardián de un conocimiento olvidado.
+📖 Ahora eres parte de su historia, guardián de un conocimiento olvidado.
 
-Gracias por jugar.
+🙏 Gracias por jugar.
 """;
 
         // Botón para créditos
