@@ -5,7 +5,7 @@ import javax.swing.*;
 
 public class Nivel1Frame extends JFrame {
     public Nivel1Frame() {
-        setTitle("Nivel 1 - Entrada a la Piramde");
+        setTitle("Nivel 1 - Entrada a la Pirámide");
         setSize(600, 400);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
