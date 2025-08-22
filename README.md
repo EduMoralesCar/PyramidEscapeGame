@@ -1,4 +1,4 @@
-<img width="570" height="356" alt="image" src="https://github.com/user-attachments/assets/26f949ba-5e66-4b94-89fb-d30d621bae95" />## 📖 Descripción del Proyecto
+## 📖 Descripción del Proyecto
 
 **Escape Room: Pirámide** es una aventura gráfica creada en Java utilizando Swing. La historia te sitúa como un investigador atrapado en una pirámide antigua. Con atmósfera envolvente, símbolos enigmáticos y acertijos inteligentes, tu única salida será resolver los desafíos planteados por los antiguos guardianes.
 
@@ -79,12 +79,9 @@ Cada decisión cuenta. Las respuestas correctas son llaves… los errores, pasos
 <img width="677" height="458" alt="image" src="https://github.com/user-attachments/assets/ed454526-499a-4ebc-b60f-864ddd87440b" />
 
 > #### Paso 13:
+<img width="670" height="451" alt="image" src="https://github.com/user-attachments/assets/997f613c-727b-495c-9e3f-468fc9d78258" />
 
-> #### Paso 14:
-> #### Paso 15:
-> 
 ---
-
 
 ## 🏗️ Arquitectura del Proyecto
 
