@@ -83,10 +83,12 @@ Cada decisión cuenta. Las respuestas correctas son llaves… los errores, pasos
 > Si respondes bien, ya terminarias los retos que tenia la pirámide antigua
 <img width="575" height="351" alt="image" src="https://github.com/user-attachments/assets/6a4a7d35-256d-4ee9-8b9c-e0061a8e7737" />
 
-> #### Paso 12:
+> #### Paso 12: Felicitaciones al jugador
+> ¡Felicidades! Si llegaste a esta pantalla, significa que lograste resolver todos los retos de la pirámide y escapaste con éxito. Tu ingenio y perseverancia te han llevado a la victoria. ¡Gracias por jugar!
 <img width="677" height="458" alt="image" src="https://github.com/user-attachments/assets/ed454526-499a-4ebc-b60f-864ddd87440b" />
 
-> #### Paso 13:
+> #### Paso 13: Créditos
+> Aquí se muestran los créditos de los desarrolladores que hicieron posible este juego. ¡Agradecemos tu tiempo y esperamos que hayas disfrutado la aventura!
 <img width="670" height="451" alt="image" src="https://github.com/user-attachments/assets/997f613c-727b-495c-9e3f-468fc9d78258" />
 
 ---
