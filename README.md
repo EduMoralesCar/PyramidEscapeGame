@@ -41,6 +41,11 @@
 - **Resuelve los acertijos en cada nivel** para avanzar por la pirámide
 Cada decisión cuenta. Las respuestas correctas son llaves… los errores, pasos hacia la perdición.
 
+### Demostración:
+> #### Paso 1:
+> #### Paso 2:
+> #### Paso 3:
+> #### Paso 4:
 
 ---
 
