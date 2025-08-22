@@ -72,7 +72,7 @@ Cada decisión cuenta. Las respuestas correctas son llaves… los errores, pasos
 > Si respondes bien, avanzas al siguiente nivel. ¡Sigue resolviendo!
 <img width="577" height="355" alt="image" src="https://github.com/user-attachments/assets/5c532e57-ac7c-4d4b-91ed-67ff86b82e6c" />
 
-> #### Paso 9: Inicia el ultimo reto
+> #### Paso 9: Inicia el ultimo reto en la camara del tesoro...
 <img width="575" height="356" alt="image" src="https://github.com/user-attachments/assets/8386c979-45da-4286-b7bd-24b8cad24163" />
 
 > #### Paso 10: Tercer acertijo
