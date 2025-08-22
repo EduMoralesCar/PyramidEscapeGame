@@ -43,11 +43,33 @@ Cada decisión cuenta. Las respuestas correctas son llaves… los errores, pasos
 
 ### Demostración:
 > #### Paso 1:
-> #### Paso 2:
-> #### Paso 3:
-> #### Paso 4:
+<img width="675" height="459" alt="image" src="https://github.com/user-attachments/assets/14100fb2-3fcb-4164-be74-63ef956ccc1a" />
 
+> #### Paso 2:
+<img width="676" height="551" alt="image" src="https://github.com/user-attachments/assets/7558cdbf-5df4-40e8-8a1f-8a3c889be47a" />
+
+> #### Paso 3:
+<img width="577" height="358" alt="image" src="https://github.com/user-attachments/assets/da22d4ae-ce39-48af-a99b-fbda214347a5" />
+
+> #### Paso 4:
+<img width="577" height="351" alt="image" src="https://github.com/user-attachments/assets/7cd2cc68-1213-48de-80bc-144bf2b693f9" />
+
+> #### Paso 5:
+<img width="575" height="356" alt="image" src="https://github.com/user-attachments/assets/f8012f8b-75ad-4dab-bee3-58ec3a135811" />
+
+> #### Paso 6:
+<img width="577" height="359" alt="image" src="https://github.com/user-attachments/assets/eaf9f0c1-6c7c-4beb-aa1b-ab893648f40d" />
+
+> #### Paso 7:
+<img width="575" height="356" alt="image" src="https://github.com/user-attachments/assets/db65201a-fc2c-44e8-a4b3-661ff2c4bbce" />
+
+> #### Paso 8:
+<img width="577" height="355" alt="image" src="https://github.com/user-attachments/assets/5c532e57-ac7c-4d4b-91ed-67ff86b82e6c" />
+
+> #### Paso 9:
+> 
 ---
+
 
 ## 🏗️ Arquitectura del Proyecto
 
