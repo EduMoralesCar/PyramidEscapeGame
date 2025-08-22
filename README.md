@@ -41,23 +41,27 @@
 - **Resuelve los acertijos en cada nivel** para avanzar por la pirámide
 Cada decisión cuenta. Las respuestas correctas son llaves… los errores, pasos hacia la perdición.
 
-### Demostración:
-> #### Paso 1:
+### Demostración guiada:
+> #### Paso 1: Pantalla de bienvenida
+> Aquí inicia la historia. Lee con atención la introducción, ya que contiene pistas para los acertijos.
 <img width="675" height="459" alt="image" src="https://github.com/user-attachments/assets/14100fb2-3fcb-4164-be74-63ef956ccc1a" />
 
-> #### Paso 2:
+> #### Paso 2: Menú principal
+> Haz clic en “Comenzar Aventura” para iniciar el reto dentro de la pirámide.
 <img width="676" height="551" alt="image" src="https://github.com/user-attachments/assets/7558cdbf-5df4-40e8-8a1f-8a3c889be47a" />
 
-> #### Paso 3:
+> #### Paso 3: Inicia el primer reto
 <img width="577" height="358" alt="image" src="https://github.com/user-attachments/assets/da22d4ae-ce39-48af-a99b-fbda214347a5" />
 
-> #### Paso 4:
+> #### Paso 4: Primer acertijo
+> Se presenta el primer desafío. Lee la pregunta y selecciona la respuesta que creas correcta.
 <img width="577" height="351" alt="image" src="https://github.com/user-attachments/assets/7cd2cc68-1213-48de-80bc-144bf2b693f9" />
 
-> #### Paso 5:
+> #### Paso 5: Respuesta correcta
+> Si respondes bien, avanzas al siguiente nivel. ¡Sigue resolviendo!
 <img width="575" height="356" alt="image" src="https://github.com/user-attachments/assets/f8012f8b-75ad-4dab-bee3-58ec3a135811" />
 
-> #### Paso 6:
+> #### Paso 6: Inicia el segundo reto
 <img width="577" height="359" alt="image" src="https://github.com/user-attachments/assets/eaf9f0c1-6c7c-4beb-aa1b-ab893648f40d" />
 
 > #### Paso 7:
