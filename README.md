@@ -64,19 +64,23 @@ Cada decisión cuenta. Las respuestas correctas son llaves… los errores, pasos
 > #### Paso 6: Inicia el segundo reto
 <img width="577" height="359" alt="image" src="https://github.com/user-attachments/assets/eaf9f0c1-6c7c-4beb-aa1b-ab893648f40d" />
 
-> #### Paso 7:
+> #### Paso 7: Segundo acertijo
+> Se presenta el segundo desafío. Lee la pregunta y selecciona la respuesta que creas correcta.
 <img width="575" height="356" alt="image" src="https://github.com/user-attachments/assets/db65201a-fc2c-44e8-a4b3-661ff2c4bbce" />
 
-> #### Paso 8:
+> #### Paso 8: Respuesta correcta
+> Si respondes bien, avanzas al siguiente nivel. ¡Sigue resolviendo!
 <img width="577" height="355" alt="image" src="https://github.com/user-attachments/assets/5c532e57-ac7c-4d4b-91ed-67ff86b82e6c" />
 
-> #### Paso 9:
+> #### Paso 9: Inicia el ultimo reto
 <img width="575" height="356" alt="image" src="https://github.com/user-attachments/assets/8386c979-45da-4286-b7bd-24b8cad24163" />
 
-> #### Paso 10:
+> #### Paso 10: Tercer acertijo
+> > > Se presenta el tercer desafío. Lee la pregunta y selecciona la respuesta que creas correcta.
 <img width="570" height="356" alt="image" src="https://github.com/user-attachments/assets/72f9269d-84b4-4468-a309-ac6d8254c8c3" />
 
-> #### Paso 11:
+> #### Paso 11: Respuesta correcta
+> Si respondes bien, ya terminarias los retos que tenia la pirámide antigua
 <img width="575" height="351" alt="image" src="https://github.com/user-attachments/assets/6a4a7d35-256d-4ee9-8b9c-e0061a8e7737" />
 
 > #### Paso 12:
